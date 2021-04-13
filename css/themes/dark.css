@@ -1,0 +1,19 @@
+:root {
+    --bg1: #2f3640;
+    --anim1: #487eb0;
+
+    --bg2: #192a56;
+    --anim2: #4cd137;
+    
+    --bg3: #718093;
+    --anim3: #fbc531;
+
+    --bg4: #c23616;
+    --anim4: #9c88ff;
+
+    --bg5: #40739e;
+    --anim5: #00a8ff;
+
+    --outline: #353b48;
+    --text-color: white;
+}

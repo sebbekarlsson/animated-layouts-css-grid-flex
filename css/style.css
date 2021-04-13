@@ -1,0 +1,26 @@
+@import "themes/theme.css";
+@import "flex-layout.css";
+@import "grid-layout.css";
+@import "layout.css";
+@import "animation.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+
+section+section {
+    margin-top: 1rem;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    padding-top: 1rem;
+}

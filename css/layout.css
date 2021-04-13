@@ -1,0 +1,12 @@
+@import "themes/theme.css";
+
+.row, .col {
+    outline-style: solid;
+    outline-width: 4px;
+    outline-style: solid;
+    outline-width: 4px;
+}
+
+.row p, .col p {
+    color: var(--text-color);
+}

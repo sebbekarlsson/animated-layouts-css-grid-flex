@@ -1,0 +1,35 @@
+.flex-layout {
+    display: flex;
+    flex-direction: column;
+    height: 164px;
+    width: 400px;
+}
+
+.flex-layout .row {
+    flex: 1;
+    display: flex;
+}
+
+.flex-layout .col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-layout .row-2 {
+    flex: 2;
+}
+
+.flex-layout .col-2 {
+    flex: 2;
+}
+
+.flex-layout .col-3 {
+    flex: 3;
+}
+
+.flex-layout .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

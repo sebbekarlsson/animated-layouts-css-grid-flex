@@ -1,0 +1,72 @@
+@import "themes/theme.css";
+
+
+@keyframes anim1 {
+    from {
+        background-color: var(--bg1);
+    }
+
+    to {
+        background-color: var(--anim1);
+    }
+}
+
+.anim1 {
+    animation: anim1 .5s alternate infinite;
+}
+
+@keyframes anim2 {
+    from {
+        background-color: var(--bg2);
+    }
+
+    to {
+        background-color: var(--anim2);
+    }
+}
+
+.anim2 {
+    animation: anim2 .5s alternate infinite;
+}
+
+@keyframes anim3 {
+    from {
+        background-color: var(--bg3);
+    }
+
+    to {
+        background-color: var(--anim3);
+    }
+}
+
+.anim3 {
+    animation: anim3 .5s alternate infinite;
+}
+
+@keyframes anim4 {
+    from {
+        background-color: var(--bg4);
+    }
+
+    to {
+        background-color: var(--anim4);
+    }
+}
+
+.anim4 {
+    animation: anim4 .5s alternate infinite;
+}
+
+@keyframes anim5 {
+    from {
+        background-color: var(--bg5);
+    }
+
+    to {
+        background-color: var(--anim5);
+    }
+}
+
+.anim5 {
+    animation: anim5 .5s alternate infinite;
+}
